@@ -1,0 +1,20 @@
+.app {
+    position: relative;
+    width: 100vw;
+    min-height: 100vh;
+    text-align: center;
+    padding: 2vh 2vw;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3vh;
+    padding: 2vh 2vw;
+    width: 40vw;
+}
+
+input{
+    height: 6vh;
+    padding-inline: 2vw;
+}

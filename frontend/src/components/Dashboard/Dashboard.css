@@ -1,0 +1,32 @@
+.dashboard {
+    min-height: 70vh;
+    color: black;
+    position: relative;
+}
+
+.sessionHead {
+    border: 2px solid #000000;
+    margin-bottom: 2vh;
+}
+
+.header {
+    width: 98vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+tr, th {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+td {
+    flex: 1;
+}
